@@ -1,0 +1,287 @@
+['ls_og_kush_seed'] = {
+    label = 'OG Kush Seed',
+    weight = 25,
+},
+
+['ls_og_kush_bud'] = {
+    label = 'OG Kush Bud',
+    weight = 25,
+},
+
+['ls_og_kush_bag'] = {
+    label = 'OG Kush Bag',
+    weight = 50,
+},
+
+['ls_og_kush_joint'] = {
+    label = 'OG Kush Joint',
+    weight = 50,
+},
+
+['ls_amber_kush_seed'] = {
+    label = 'Amber Kush Seed',
+    weight = 25,
+},
+
+['ls_amber_kush_bud'] = {
+    label = 'Amber Kush Bud',
+    weight = 25,
+},
+
+['ls_amber_kush_bag'] = {
+    label = 'Amber Kush Bag',
+    weight = 50,
+},
+
+['ls_amber_kush_joint'] = {
+    label = 'Amber Kush Joint',
+    weight = 50,
+},
+
+['ls_citrus_ember_seed'] = {
+    label = 'Citrus Ember Seed',
+    weight = 25,
+},
+
+['ls_citru_ember_bud'] = {
+    label = 'Citrus Ember Bud',
+    weight = 25,
+},
+
+['ls_citrus_ember_bag'] = {
+    label = 'Citrus Ember Bag',
+    weight = 50,
+},
+
+['ls_citrus_ember_joint'] = {
+    label = 'Citrus Ember Joint',
+    weight = 50,
+},
+
+['ls_blue_dream_seed'] = {
+    label = 'Blue Dream Seed',
+    weight = 25,
+},
+
+['ls_blue_dream_bud'] = {
+    label = 'Blue Dream Bud',
+    weight = 25,
+},
+
+['ls_blue_dream_bag'] = {
+    label = 'Blue Dream Bag',
+    weight = 50,
+},
+
+['ls_blue_dream_joint'] = {
+    label = 'Blue Dream Joint',
+    weight = 50,
+},
+
+['ls_purple_haze_seed'] = {
+    label = 'Purple Haze Seed',
+    weight = 25,
+},
+
+['ls_purple_haze_bud'] = {
+    label = 'Purple Haze Bud',
+    weight = 25,
+},
+
+['ls_purple_haze_bag'] = {
+    label = 'Purple Haze Bag',
+    weight = 50,
+},
+
+['ls_purple_haze_joint'] = {
+    label = 'Purple Haze Joint',
+    weight = 50,
+},	
+
+['ls_golden_solstice_seed'] = {
+    label = 'Golden Solstice Seed',
+    weight = 25,
+},
+
+['ls_golden_solstice_bud'] = {
+    label = 'Golden Solstice Bud',
+    weight = 25,
+},
+
+['ls_golden_solstice_bag'] = {
+    label = 'Golden Solstice Bag',
+    weight = 50,
+},
+
+['ls_golden_solstice_joint'] = {
+    label = 'Golden Solstice Joint',
+    weight = 50,
+},
+
+['ls_cosmic_kush_seed'] = {
+    label = 'Cosmic Kush Seed',
+    weight = 25,
+},
+
+['ls_cosmic_kush_bud'] = {
+    label = 'Cosmic Kush Bud',
+    weight = 25,
+},
+
+['ls_cosmic_kush_bag'] = {
+    label = 'Cosmic Kush Bag',
+    weight = 50,
+},
+
+['ls_cosmic_kush_joint'] = {
+    label = 'Cosmic Kush Joint',
+    weight = 50,
+},
+
+['ls_inferno_blaze_seed'] = {
+    label = 'Inferno Blaze Seed',
+    weight = 25,
+},
+
+['ls_inferno_blaze_bud'] = {
+    label = 'Inferno Blaze Bud',
+    weight = 25,
+},
+
+['ls_inferno_blaze_bag'] = {
+    label = 'Inferno Blaze Bag',
+    weight = 50,
+},
+
+['ls_inferno_blaze_joint'] = {
+    label = 'Inferno Blaze Joint',
+    weight = 50,
+},
+
+['ls_aqua_bliss_seed'] = {
+    label = 'Aqua Bliss Seed',
+    weight = 25,
+},
+
+['ls_aqua_bliss_bud'] = {
+    label = 'Aqua Bliss Bud',
+    weight = 25,
+},
+
+['ls_aqua_bliss_bag'] = {
+    label = 'Aqua Bliss Bag',
+    weight = 50,
+},
+
+['ls_aqua_bliss_joint'] = {
+    label = 'Aqua Bliss Joint',
+    weight = 50,
+},
+
+['ls_shadow_snow_seed'] = {
+    label = 'Shadow Snow Seed',
+    weight = 25,
+},
+
+['ls_shadow_snow_bud'] = {
+    label = 'Shadow Snow Bud',
+    weight = 25,
+},
+
+['ls_shadow_snow_bag'] = {
+    label = 'Shadow Snow Bag',
+    weight = 50,
+},
+
+['ls_shadow_snow_joint'] = {
+    label = 'Shadow Snow Joint',
+    weight = 50,
+},
+
+['ls_midnight_frost_seed'] = {
+    label = 'Midnight Frost Seed',
+    weight = 25,
+},
+
+['ls_midnight_frost_bud'] = {
+    label = 'Midnight Frost Bud',
+    weight = 25,
+},
+
+['ls_midnight_frost_bag'] = {
+    label = 'Midnight Frost Bag',
+    weight = 50,
+},
+
+['ls_midnight_frost_joint'] = {
+    label = 'Midnight Frost Joint',
+    weight = 50,
+},
+
+['ls_crimson_eclipse_seed'] = {
+    label = 'Crimson Eclipse Seed',
+    weight = 25,
+},
+
+['ls_crimson_eclipse_bud'] = {
+    label = 'Crimson Eclipse Bud',
+    weight = 25,
+},
+
+['ls_crimson_eclipse_bag'] = {
+    label = 'Crimson Eclipse Bag',
+    weight = 50,
+},
+
+['ls_crimson_eclipse_joint'] = {
+    label = 'Crimson Eclipse Joint',
+    weight = 50,
+},
+
+['ls_rolling_paper'] = {
+    label = 'Rolling Paper',
+    weight = 5,
+},
+
+['ls_empty_baggy'] = {
+    label = 'Empty Baggy',
+    weight = 5,
+},
+
+['ls_access_card'] = {
+    label = 'Access Card',
+    weight = 15,
+},
+
+['ls_watering_can'] = {
+    label = 'Watering Can',
+    weight = 3250,
+    stack = false,
+},
+
+['ls_fertilizer'] = {
+    label = 'Fertilizer',
+    weight = 1750,
+    stack = false,
+},
+
+['ls_plant_pot'] = {
+    label = 'Plant Pot',
+    weight = 25,
+},
+
+['ls_shovel'] = {
+    label = 'Shovel',
+    weight = 75,
+},
+
+['ls_shears'] = {
+    label = 'Shears',
+    weight = 10,
+},
+
+['ls_weed_table'] = {
+	label = 'Weed Table',
+	weight = 1000,
+	stack = false
+},
