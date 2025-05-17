@@ -178,7 +178,8 @@ end
 --- @param source number Player ID
 --- @param data table Plant data (use: print(json.encode(data, {indent = true})) to see data)
 function SeedPlanted(source, data)
-
+    if not Housing then return end
+    SetHouse(source, data.id)
 end
 
 -- Empty function thats triggered when a player fertilizes a plant

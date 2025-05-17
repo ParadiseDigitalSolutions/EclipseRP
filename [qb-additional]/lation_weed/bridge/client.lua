@@ -134,8 +134,20 @@ end
 -- Returns players current inventory data
 --- @return any
 function GetPlayerInventory()
-    if Inventory and Inventory == 'ox_inventory' then
-        return exports[Inventory]:GetPlayerItems()
+    if Inventory then
+        if Inventory == 'ox_inventory' then
+            return exports[Inventory]:GetPlayerItems()
+        elseif Inventory == 'qb-inventory' then
+            return GetPlayerData().items
+        elseif Inventory == 'qs-inventory' then
+            return exports[Inventory]:getUserInventory()
+        elseif Inventory == 'ps-inventory' then
+            return GetPlayerData().items
+        elseif Inventory == 'origen_inventory' then
+            return exports[Inventory]:GetInventory()
+        elseif Inventory == 'codem-inventory' then
+            return exports[Inventory]:GetClientPlayerInventory()
+        end
     else
         if Framework == 'esx' then
             return GetPlayerData().inventory

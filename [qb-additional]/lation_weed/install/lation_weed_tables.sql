@@ -7,4 +7,4 @@ CREATE TABLE IF NOT EXISTS `lation_weed_tables` (
   `bucket` int(11) DEFAULT NULL,
   `owner` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`id`)
-);
+) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;

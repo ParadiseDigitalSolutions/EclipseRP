@@ -12,5 +12,6 @@ CREATE TABLE IF NOT EXISTS `lation_weed` (
   `stage` int(11) DEFAULT NULL,
   `bucket` int(11) DEFAULT NULL,
   `owner` varchar(255) DEFAULT NULL,
+  `house` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`plant_id`)
-);
+) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;

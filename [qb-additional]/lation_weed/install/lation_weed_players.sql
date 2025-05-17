@@ -8,4 +8,4 @@ CREATE TABLE IF NOT EXISTS `lation_weed_players` (
   `joints_rolled` int(11) NOT NULL DEFAULT 0,
   `weed_bagged` int(11) NOT NULL DEFAULT 0,
   PRIMARY KEY (`identifier`)
-);
+) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;

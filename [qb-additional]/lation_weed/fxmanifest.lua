@@ -4,7 +4,7 @@ lua54 'yes'
 
 name 'lation_weed'
 author 'iamlation'
-version '3.0.9'
+version '3.0.10'
 description 'An advanced weed growing resource for FiveM'
 
 server_scripts {
@@ -47,7 +47,9 @@ escrow_ignore {
     'logs.lua',
     'locales/*.json',
     'client/functions.lua',
+    'client/compat.lua',
     'server/functions.lua',
+    'server/compat.lua',
     'bridge/*.lua'
 }
 dependency '/assetpacks'
